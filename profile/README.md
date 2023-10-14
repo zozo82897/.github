@@ -4,7 +4,7 @@ Hey! We're zozo82897.lol  and have been developing integrations on Discord since
 
 
 ### 🤖 Our Discord bots
-- [`Astronutz`]() Multi-purpose bot Music Bot
+- [`Musify`]() Multi-purpose bot Music Bot
 - [`Reedroux`](https://reedrouxmusic.vercel.app/) Multi-purpose bot Music Bot
 
 
